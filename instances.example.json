@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "updated": "2026-11-12",
+  "status": "draft-not-deployed",
+  "runtime": null,
+  "model_settings_verified": false,
+  "repository_owner": "markyafi1991",
+  "instances": [
+    {
+      "role": "BI Portfolio Producer",
+      "charter": "employees/producer/SOUL.md",
+      "provider": null,
+      "model": null,
+      "reasoning_effort": null,
+      "read_repositories": [
+        "budget-request-demo",
+        "budget-request-demo-powerapps",
+        "budget-request-demo-powerbi"
+      ],
+      "propose_repositories": [
+        "budget-request-demo"
+      ],
+      "access_provisioned": false
+    },
+    {
+      "role": "Analytics QA Reviewer",
+      "charter": "employees/qa-reviewer/SOUL.md",
+      "provider": null,
+      "model": null,
+      "reasoning_effort": null,
+      "read_repositories": [
+        "budget-request-demo",
+        "budget-request-demo-powerapps",
+        "budget-request-demo-powerbi"
+      ],
+      "propose_repositories": [
+        "budget-request-demo"
+      ],
+      "access_provisioned": false
+    }
+  ],
+  "credentials_included": false
+}
